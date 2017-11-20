@@ -1,0 +1,151 @@
+#PARSE_ESCAPES
+achievement.civilization_friend=Друг
+achievement.civilization_ally=Союзник
+achievement.civilization_hero=Герой
+achievement.first_quest=Первый квест
+achievement.bounty_hunter=Охотник за головами
+achievement.bastion=Убийца бастиона
+achievement.mage=Убийца магов
+achievement.village_lord=Убийца короля
+achievement.jackpot=Куш!
+item.obsidian_sword.name=Обсидиановый меч
+item.fire_sword.name=Огненный меч
+item.diamond_battle_axe.name=Алмазный боевой топор
+item.reinforced_diamond_boots.name=Усиленные алмазные сапоги
+item.reinforced_diamond_helmet.name=Усиленный алмазный шлем
+item.reinforced_diamond_leggings.name=Усиленные алмазные поножи
+item.reinforced_diamond_chestplate.name=Усиленный алмазный нагрудник
+item.royal_boots.name=Королевские сапоги
+item.royal_helmet.name=Королевский шлем
+item.royal_leggings.name=Королевские поножи
+item.royal_chestplate.name=Королевский нагрудник
+item.samurai_boots.name=Самурайская юбка
+item.samurai_helmet.name=Самурайский шлем
+item.samurai_leggings.name=Самурайские поножи
+item.samurai_chestplate.name=Самурайский нагрудник
+item.toro_armor_boots.name=Торо сапоги
+item.toro_armor_helmet.name=Торо шлем
+item.toro_armor_leggings.name=Торо поножи
+item.toro_armor_chestplate.name=Торо нагрудник
+item.toro_leather.name=Торо кожа
+item.torch_arrow.name=Факельная стрела
+item.pickaxe_of_greed.name=Кирка жадности
+item.sword_of_pain.name=Меч боли
+item.spicy_chicken.name=Острая курица
+
+effect.toroquest\:royalty=Королевская власть
+potion.effect.toroquest\:royalty=Зелье королевской власти
+splash_potion.effect.toroquest\:royalty=Всплеск зелья королевской власти
+lingering_splash_potion.effect.toroquest\:royalty=Затяжное зелье королевской власти
+
+effect.toroquest\:loyalty=Верность
+potion.effect.toroquest\:loyalty=Зелье верности
+splash_potion.effect.toroquest\:loyalty=Всплеск зелья верности
+lingering_potion.effect.toroquest\:loyalty=Затяжное зелье верности
+
+entity.toroquest.monolitheye.name=Надсмотрщик
+entity.monolitheye.name=Надсмотрщик
+entity.toroquest_monolitheye.name=Надсмотрщик
+
+
+entity.toroquest.mage.name=Маг
+entity.mage.name=Маг
+entity.toroquest_mage.name=Маг
+
+entity.toroquest.toro.name=Торо
+entity.toro.name=Торо
+entity.toroquest_toro.name=Торо
+
+entity.toroquest.guard.name=Стражник
+entity.guard.name=Стражник
+entity.toroquest_guard.name=Стражник
+
+entity.toroquest.village_lord.name=Деревенский лорд
+entity.village_lord.name=Деревенский лорд
+entity.toroquest_village_lord.name=Деревенский лорд
+
+entity.toroquest.shopkeeper.name=Лавочник
+entity.shopkeeper.name=Лавочник
+entity.toroquest_shopkeeper.name=Лавочник
+
+entity.toroquest.fugitive.name=Беглец
+entity.fugitive.name=Беглец
+entity.toroquest_fugitive.name=Беглец
+
+entity.toroquest.vampire_bat.name=Летучая мышь-вампир
+entity.vampire_bat.name=Летучая мышь-вампир
+entity.toroquest_vampire_bat.name=Летучая мышь-вампир
+
+entity.toroquest.bas.name=Лорд Бастион
+entity.bas.name=Лорд Бастион
+entity.toroquest_bas.name=Лорд Бастион
+
+entity.toroquest.sentry.name=Часовой
+entity.sentry.name=Часовой
+entity.toroquest_sentry.name=Часовой
+
+entity.toroquest.rainbow_guard.name=Радужный гвардеец
+entity.rainbow_guard.name=Радужный гвардеец
+entity.toroquest_rainbow_guard.name=Радужный гвардеец
+
+entity.toroquest.rainbow_king.name=Радужный король
+entity.rainbow_king.name=Радужный король
+entity.toroquest_rainbow_king.name=Радужный король
+
+civilization.earth.name=Терра
+civilization.wind.name=Густаберг
+civilization.fire.name=Люменс
+civilization.moon.name=Вульф
+civilization.sun.name=Солярис
+civilization.water.name=Аквариус
+civilization.entering.friendly=Добро пожаловать в %s из %s
+civilization.entering.neutral=Вошел %s из %s
+civilization.entering.hostile=Проникнул в %s из %s
+civilization.leaving.friendly=Прощайте %s из %s
+civilization.leaving.neutral=Покинул %s из %s
+civilization.leaving.hostile=Сбежал %s из %s
+
+
+civilization.reputation_level.hero=Герой
+civilization.reputation_level.ally=Союзник
+civilization.reputation_level.friend=Друг
+civilization.reputation_level.drifter=Бродяга
+civilization.reputation_level.outcast=Изгой
+civilization.reputation_level.enemy=Враг
+civilization.reputation_level.villain=Злодей
+
+quest.gui.title=Лорд из %s
+quest.gui.rep_for=%d Реп. для
+quest.gui.reply=Получить ответ
+quest.gui.stolen_item=Вернуть предмет
+quest.gui.empty=Дать предметы
+quest.gui.button.donate=Дать
+quest.gui.button.accept=Принять
+quest.gui.button.complete=Завершить
+quest.gui.button.reject=Отказ
+quest.directions=%s метров в %s,%s
+
+quests.no_items=нет предметов
+quests.courier.title=§lКурьер§r
+quests.courier.description=§lДоставить§r записку в %s и вернуться с ответом\n§lРасположение§r %s\n§lНаграда§r %s\n§lПолучите§r %s репутации
+
+quests.enemey_encampment.title=§lОчистить лагерь§r
+quests.enemey_encampment.description=§l§lОчистить§r %s лагерь\n§lРасположение§r %s\n§lНаграда§r %s\n§lПолучите§r %s репутации
+quests.enemey_encampment.wasnt_you=Вы лично не убили никого из лагеря!
+quests.enemey_encampment.one_left=Вы не убили их всех, остался один!
+quests.enemey_encampment.some_left=Вы не убили их всех, там %i осталось.
+
+quests.bounty_hunter.title=§lОхотник за головами§r
+quests.bounty_hunter.description=Захватите и возвратите беглеца в %s\n§lРасположение %s\n§lНаграда§r %s\n§lПолучите§r %s репутации
+
+quests.farm.title=§lФерма квест§r
+quests.farm.description=§lПосадить§r %s %s растения в %s\nВы посадили %s\n§lНаграда§r %s
+
+quests.gather.title=§lСбор квест§r
+quests.gather.description=§lСоберите§r %s\n§lНаграда§r %s\n§lПолучите§r %s репутации
+
+quests.kill_mobs.title=§lУбить мобов§r
+quests.kill_mobs.description=§lУбить§r %s %s мобов в %s\nВы убили %s\n§lНаграда§r %s
+
+quests.mine.title=§lДобыча ископаемых§r
+quests.mine.description=§lДобудьте§r %s блоков из %s в этой области\n§lНиже§r, чем уровень 30\n§lИспользуйте§r и возвратите предусмотренный инструмент\n§lНаграда§r %s\n§lПолучите§r %s репутации
